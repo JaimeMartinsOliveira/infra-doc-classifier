@@ -43,11 +43,9 @@ Este projeto tem como objetivo classificar automaticamente documentos técnicos 
 Exemplo de bloco
 ## 🖼️ Demonstrações Visuais
 
-| Interface Upload                  | Exemplo de bloco                    | Interface de Classificação          
-|-----------------------------------|-------------------------------------|-------------------------------------|
-| ![CLI](images/upload-example.png) | ![Output](images/bloco-example.png) | ![Output](images/class-example.png) |
-
-> 💡 Imagens devem ser adicionadas na pasta `images/`.
+| Interface Upload                 | Exemplo de bloco                   | Interface de Classificação         
+|----------------------------------|------------------------------------|------------------------------------|
+| ![CLI](assets/upload.png) | ![Output](assets/bloco.png) | ![Output](assets/class.png) |
 
 ---
 
